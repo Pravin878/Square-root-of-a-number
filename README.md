@@ -27,13 +27,13 @@ squareroot(num1,iternum)
 ```
 /*
 Program to find the square root for the given number(newton's method) using function.
-Developed by: 
-RegisterNumber:  
+Developed by: pravin kumar G
+RegisterNumber:  22002767
 */
 ```
 
 ## Output:
-![square root of the number](squareroot.png)
+![output](square.png)
 
 
 ## Result:
